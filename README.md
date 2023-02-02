@@ -6,4 +6,4 @@ The coffe roast data was artificially created and tiled to increase data size an
 The network is built by a hidden layer containing 3 neurons, and the output layer containing a single neuron. Both layers use sigmoid activation function.
 
 
-
+<img src="roast.png">
